@@ -16,4 +16,13 @@ nav:
   # - Appendices: chapters/10-appendices.md
 
 extra_javascript:
-  - <script async data-uid="4e0e09dbdb" src="https://virtusguide.kit.com/4e0e09dbdb/index.js"></script>
+  - https://f.convertkit.com/4e0e09dbdb.js
+
+
+markdown_extensions:
+  - admonition
+  - codehilite
+  - toc:
+      permalink: true
+
+
