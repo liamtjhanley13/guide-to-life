@@ -1,0 +1,16 @@
+site_name: Guide to Life
+theme:
+  name: material
+nav:
+  - Home: README.md
+  - Summary: SUMMARY.md
+  - Aesthetics & Lifestyle: chapters/01-aesthetics.md
+  # - Cognitive Domination: chapters/02-cognitive-domination.md
+  # - Biohacking: chapters/03-biohacking.md
+  # - Strategic Awareness: chapters/04-strategic-awareness.md
+  # - Wealth Empire: chapters/05-wealth-empire.md
+  # - Physical Mastery: chapters/06-physical-mastery.md
+  # - Tactical Survival: chapters/07-tactical-survival.md
+  # - Inner Power: chapters/08-inner-power.md
+  # - Esoteric Elite: chapters/09-esoteric-elite.md
+  # - Appendices: chapters/10-appendices.md
