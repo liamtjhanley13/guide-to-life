@@ -11,7 +11,6 @@ version: "1.0.0"
 
 Below is the **fully expanded** Chapter 1 at our elite depth standard—complete with mechanistic explanations, real‐world case studies, precise protocols, product links, citations, and integration templates. This is **not** a conglomeration of bullet points but a substantive deep-dive into each subdomain.
 
-```markdown
 # Chapter 1 – AESTHETIC & LIFESTYLE OPTIMIZATION
 
 > *“Your body and presence are your first argument with reality. Master them, and the world listens.”*
