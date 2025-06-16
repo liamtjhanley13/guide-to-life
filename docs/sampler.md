@@ -20,8 +20,7 @@ version: "1.0.0"
 
 Pop your email below—ConvertKit will send the full PDF & next-level protocols.
 
-<script async data-uid="4e0e09dbdb" src="https://f.convertkit.com/4e0e09dbdb.js"></script>
-
+<script async data-uid="4e0e09dbdb" src="https://virtusguide.kit.com/4e0e09dbdb/index.js"></script>
 
 
 
