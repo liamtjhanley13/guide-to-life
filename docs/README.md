@@ -1,5 +1,10 @@
 # Guide to Life
 ...
 Enjoy mastering your Guide!
-<div data-formkit-id="4e0e09dbdb"></div>
+
+<script async data-uid="4e0e09dbdb" src="https://f.convertkit.com/4e0e09dbdb.js"></script>
+
+
+
+
 
