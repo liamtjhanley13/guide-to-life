@@ -15,9 +15,6 @@ nav:
   # - Esoteric Elite: chapters/09-esoteric-elite.md
   # - Appendices: chapters/10-appendices.md
 
-extra_javascript:
-  - https://f.convertkit.com/4e0e09dbdb.js
-
 
 markdown_extensions:
   - admonition
