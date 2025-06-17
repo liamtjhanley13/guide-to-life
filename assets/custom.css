@@ -1,0 +1,56 @@
+/* ===== VirtusGuide brand palette ===== */
+:root {
+  --vp-bg          : #dae7dd;  /* honeydew */
+  --vp-surface     : #e0e0cc;  /* eggshell */
+  --vp-primary     : #0c452d;  /* deep green */
+  --vp-primary-dark: #082b1b;
+  --vp-accent      : #0f2857;  /* navy */
+  --vp-highlight   : #c1d4eb;  /* light blue */
+  --vp-text        : #0f2535;  /* near-black */
+  --vp-heading     : var(--vp-primary);
+  --vp-link        : var(--vp-accent);
+  --vp-link-hover  : #184499;
+}
+
+/* ===== Page basics ===== */
+body, .md-main__inner {
+  background: var(--vp-bg);
+  color: var(--vp-text);
+}
+
+a { color: var(--vp-link); }
+a:hover { color: var(--vp-link-hover); }
+
+/* ===== Header & nav ===== */
+.md-header, .md-tabs {
+  background: var(--vp-primary);
+}
+
+.md-sidebar--primary { background: var(--vp-surface); }
+
+.md-nav__item--active > .md-nav__link {
+  color: var(--vp-primary) !important;
+  font-weight: 600;
+}
+
+/* ===== Buttons (forms, call-outs) ===== */
+button, .formkit-submit {
+  background: var(--vp-accent);
+  color: #fff;
+  padding: 10px 24px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: transform .1s;
+}
+button:hover, .formkit-submit:hover {
+  transform: translateY(-2px);
+  background: var(--vp-link-hover);
+}
+
+/* ===== Cards / code blocks ===== */
+.md-typeset pre, .md-typeset code, .md-typeset .admonition {
+  background: var(--vp-surface);
+  border-left: 4px solid var(--vp-primary);
+}
+
