@@ -48,4 +48,9 @@ Pop your email below—ConvertKit will send the full PDF & next-level protocols.
 
     <input type="hidden" name="ck_form_variant_id" value="1">
   </form>
+  <script>
+document.querySelector('.formkit-form')
+  .addEventListener('submit', () => setTimeout(() =>
+    alert('🎉 Thanks! Your sampler PDF is on the way.'), 100));
+</script>
 </div>
