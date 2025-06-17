@@ -32,5 +32,3 @@ Enjoy mastering your Guide!
     </p>
   </form>
 </div>
-
-
