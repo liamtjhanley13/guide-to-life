@@ -12,4 +12,7 @@ Your purchase is confirmed.
 
 Expect new chapters and upgrades straight to your inbox.
 
-[Back to Home](index.md){ .md-button }
+[Back to Home](README.md){ .md-button }
+
+
+
