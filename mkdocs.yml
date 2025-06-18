@@ -26,4 +26,6 @@ extra_css:
   - assets/custom.css
 
 extra_javascript:
-  - https://plausible.io/js/script.js?domain=virtusguide.com
+  - https://plausible.io/js/script.file-downloads.hash.outbound-links.pageview-props.revenue.tagged-events.js?domain=virtusguide.com
+  - assets/plausible-init.js
+
