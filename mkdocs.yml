@@ -14,8 +14,7 @@ nav:
   # - Inner Power: chapters/08-inner-power.md
   # - Esoteric Elite: chapters/09-esoteric-elite.md
   # - Appendices: chapters/10-appendices.md
-  -   - Pro Pack: pro.md
-
+  - Pro Pack: pro.md
 
 markdown_extensions:
   - admonition
@@ -26,10 +25,5 @@ markdown_extensions:
 extra_css:
   - assets/custom.css
 
-  extra_javascript:
+extra_javascript:
   - https://plausible.io/js/script.js?domain=virtusguide.com
-
-
-
-
-
