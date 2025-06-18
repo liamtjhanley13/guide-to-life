@@ -33,3 +33,7 @@ extra_javascript:
   # local helper that defines window.plausible()
   - assets/plausible-init.js
 
+plugins:
+  - search
+  - pdf-export:
+      verbose: false
