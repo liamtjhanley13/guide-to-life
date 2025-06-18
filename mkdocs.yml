@@ -26,6 +26,10 @@ extra_css:
   - assets/custom.css
 
 extra_javascript:
-  - https://plausible.io/js/script.file-downloads.hash.outbound-links.pageview-props.revenue.tagged-events.js?domain=virtusguide.com
+extra_javascript:
+  # Plausible main script with all plugins + correct domain
+  - https://plausible.io/js/script.file-downloads.hash.outbound-links.pageview-props.revenue.tagged-events.js?domain=liamtjhanley13.github.io/guide-to-life
+
+  # local helper that defines window.plausible()
   - assets/plausible-init.js
 
